@@ -2,6 +2,10 @@ body {
   font-family: YuGothic, "游ゴシック", "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", sans-serif;
 }
 
+#wrapper {
+  padding: 0;
+}
+
 #top-bar {
   background-color: rgb(66, 76, 84);
   padding: 10px 0 20px 0;
